@@ -6,7 +6,7 @@ if (streamPostWrapper) {
 }
 
 // Remove the live-chat-block element
-const liveChatBlock = document.querySelector('#live-chat-block');
+const liveChatBlock = document.querySelector('#live-chat-block') || document.querySelector('.sidebar');
 if (liveChatBlock) {
     liveChatBlock.remove();
 }
