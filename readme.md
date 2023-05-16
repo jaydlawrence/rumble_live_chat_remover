@@ -1,10 +1,10 @@
 # Rumble Live Chat Remover
 
-This is a colaboration between me and chatGPT to remove the chat window on rumble videos and remove the max width on the video.
+This is a colaboration between me and chatGPT to create a chrome extension to remove the chat window on rumble videos and remove the max width on the video.
 
 ## Installation
 
-Download this repository and unzip to a file.
+Download this repository and unzip to a folder.
 
 According to chatGPT, these are the rest of the steps:
 
