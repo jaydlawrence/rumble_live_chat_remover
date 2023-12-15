@@ -1,5 +1,5 @@
 // Make the stream-post-wrapper__post element 100% width
-const streamPostWrapper = document.querySelector('.stream-post-wrapper__post');
+const streamPostWrapper = document.querySelector('.stream-post-wrapper__post') || document.querySelector('#post-live-chat');
 if (streamPostWrapper) {
     streamPostWrapper.style.width = '100%';
     streamPostWrapper.style.maxWidth = 'none';
